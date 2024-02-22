@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(64, 64, 64);
+}
+
+input[type="text"] {
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    width: 100%;
+}

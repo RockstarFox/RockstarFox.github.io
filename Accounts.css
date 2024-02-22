@@ -1,0 +1,81 @@
+body {
+    background-color: rgb(183, 55, 0);
+}
+
+.box1 {
+    width: 770px;
+    height: 470px;
+    background: rgb(59, 59, 59);
+    border-radius:  10px;
+    margin: 0 auto;
+}
+
+.box2 {
+    width: 550px;
+    height: 850px;
+    background: rgb(59, 59, 59);
+    border-radius:  10px;
+    margin: 0 auto;
+}
+
+label {
+    color: white;
+    font-size: 40px;
+    font-family: 'Segoe UI';
+}
+
+input[type="text"] {
+    width: 200px;
+    height: 30px;
+    font-family: 'Segoe UI';
+}
+
+input[type="date"] {
+    width: 200px;
+    height: 30px;
+    font-family: 'Segoe UI';
+}
+
+input[type="submit"] {
+    font-size: 40px;
+    font-family: 'Segoe UI';
+    width: 200px;
+    height: 65px;
+}
+
+a {
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    color: white; 
+}
+
+div {
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    color: white; 
+}
+
+table {
+    margin: auto;
+    padding: 5%;
+    border-spacing: 50px 0;
+}
+
+h1 {
+    font-size: 30px;
+    font-family: 'Segoe UI';
+    color: white; 
+    float: Cetner;
+    text-align: center;
+    padding-top: 3%;
+}
+
+h3 {
+    font-size: 15px;
+    font-family: 'Segoe UI';
+    color: white;
+}
+
+form {
+    text-align: center;
+}

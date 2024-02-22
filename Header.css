@@ -1,0 +1,59 @@
+header-color {
+  background-color: rgb(183, 55, 0);
+}
+
+title-name {
+  color: black;
+}
+
+.header-box {
+  width: 100%;
+  height: 160px;
+  background: rgb(183, 55, 0);
+}
+
+.header {
+    overflow: hidden;
+    padding: 20px 10px;
+  }
+  
+  .header a {
+    float: left;
+    color: white;
+    text-align: center;
+    padding: 12px;
+    text-decoration: none;
+    font-size: 18px;
+    font-family: 'Segoe UI';
+    font-weight: bold;
+    line-height: 25px;
+    border-radius: 4px;
+  }
+  
+  .header a.active {
+    background-color: rgb(96, 96, 96);
+    color: white;
+  }
+  
+  .header-right {
+    float: right;
+  }
+
+.logo {
+    width: 85px;
+    height: auto;
+}
+
+h1t {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 20px;
+  padding-top: 75px;
+  text-decoration: none;
+  font-family: 'Segoe UI';
+  font-weight: bold;
+  font-size: 75px;
+  line-height: 25px;
+  border-radius: 4px;
+}

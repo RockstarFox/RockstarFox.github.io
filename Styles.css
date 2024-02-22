@@ -1,0 +1,41 @@
+body {
+    background-color: rgb(133, 40, 0);
+}
+
+h1 {
+    float: Cetner;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    padding-top: 25px;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-size: 50px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+h2 {
+    float: Cetner;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding: 20px;
+    padding-top: 25px;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-size: 45px;
+    line-height: 25px;
+    border-radius: 4px;
+}
+
+h3 {
+    float: center;
+    color: rgb(255, 255, 255);
+    text-align: center;
+    padding-bottom: 60px;
+    text-decoration: none;
+    font-family: 'Segoe UI';
+    font-size: 30px;
+    line-height: 25px;
+    border-radius: 4px;
+}
